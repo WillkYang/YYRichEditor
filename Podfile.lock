@@ -1,0 +1,149 @@
+PODS:
+  - Masonry (1.1.0)
+  - RITLKit (2.0.3):
+    - Masonry
+    - RITLKit/Category (= 2.0.3)
+    - RITLKit/ImagePicker (= 2.0.3)
+    - RITLKit/ScrollPageController (= 2.0.3)
+    - RITLKit/Utility (= 2.0.3)
+    - RITLKit/View (= 2.0.3)
+    - RITLKit/Web (= 2.0.3)
+    - RITLViewFrame
+  - RITLKit/Category (2.0.3):
+    - Masonry
+    - RITLKit/Utility
+    - RITLViewFrame
+  - RITLKit/ImagePicker (2.0.3):
+    - Masonry
+    - RITLViewFrame
+  - RITLKit/ScrollPageController (2.0.3):
+    - Masonry
+    - RITLKit/Category
+    - RITLKit/ScrollPageController/LLSegmentBar (= 2.0.3)
+    - RITLKit/Utility
+    - RITLViewFrame
+  - RITLKit/ScrollPageController/LLSegmentBar (2.0.3):
+    - Masonry
+    - RITLKit/Category
+    - RITLKit/Utility
+    - RITLViewFrame
+  - RITLKit/Utility (2.0.3):
+    - Masonry
+    - RITLKit/Utility/DownLoader (= 2.0.3)
+    - RITLKit/Utility/Filter (= 2.0.3)
+    - RITLKit/Utility/Reachability (= 2.0.3)
+    - RITLViewFrame
+  - RITLKit/Utility/DownLoader (2.0.3):
+    - Masonry
+    - RITLViewFrame
+  - RITLKit/Utility/Filter (2.0.3):
+    - Masonry
+    - RITLViewFrame
+  - RITLKit/Utility/Reachability (2.0.3):
+    - Masonry
+    - RITLViewFrame
+  - RITLKit/View (2.0.3):
+    - Masonry
+    - RITLKit/Category
+    - RITLKit/Utility
+    - RITLViewFrame
+  - RITLKit/Web (2.0.3):
+    - Masonry
+    - RITLKit/Category
+    - RITLKit/Utility
+    - RITLViewFrame
+  - RITLPhotos (2.3.3):
+    - Masonry
+    - RITLKit
+    - RITLPhotos/Protocol (= 2.3.3)
+    - RITLPhotos/RITLCollectionModule (= 2.3.3)
+    - RITLPhotos/RITLConfig (= 2.3.3)
+    - RITLPhotos/RITLData (= 2.3.3)
+    - RITLPhotos/RITLGroupModule (= 2.3.3)
+    - RITLPhotos/RITLHoriScrollModule (= 2.3.3)
+    - RITLPhotos/RITLPhotosCategory (= 2.3.3)
+    - RITLPhotos/RITLPhotosController (= 2.3.3)
+    - RITLPhotos/RITLPhotoStore (= 2.3.3)
+    - RITLPhotos/RITLViews (= 2.3.3)
+  - RITLPhotos/Protocol (2.3.3):
+    - Masonry
+    - RITLKit
+  - RITLPhotos/RITLCollectionModule (2.3.3):
+    - Masonry
+    - RITLKit
+    - RITLPhotos/RITLConfig
+    - RITLPhotos/RITLData
+    - RITLPhotos/RITLHoriScrollModule
+    - RITLPhotos/RITLPhotosCategory
+    - RITLPhotos/RITLPhotoStore
+    - RITLPhotos/RITLViews
+  - RITLPhotos/RITLConfig (2.3.3):
+    - Masonry
+    - RITLKit
+  - RITLPhotos/RITLData (2.3.3):
+    - Masonry
+    - RITLKit
+    - RITLPhotos/Protocol
+    - RITLPhotos/RITLPhotosCategory
+  - RITLPhotos/RITLGroupModule (2.3.3):
+    - Masonry
+    - RITLKit
+    - RITLPhotos/RITLCollectionModule
+    - RITLPhotos/RITLPhotosCategory
+    - RITLPhotos/RITLPhotoStore
+  - RITLPhotos/RITLHoriScrollModule (2.3.3):
+    - Masonry
+    - RITLKit
+    - RITLPhotos/RITLConfig
+    - RITLPhotos/RITLData
+    - RITLPhotos/RITLPhotosCategory
+    - RITLPhotos/RITLViews
+  - RITLPhotos/RITLPhotosCategory (2.3.3):
+    - Masonry
+    - RITLKit
+  - RITLPhotos/RITLPhotosController (2.3.3):
+    - Masonry
+    - RITLKit
+    - RITLPhotos/Protocol
+    - RITLPhotos/RITLCollectionModule
+    - RITLPhotos/RITLConfig
+    - RITLPhotos/RITLData
+    - RITLPhotos/RITLGroupModule
+  - RITLPhotos/RITLPhotoStore (2.3.3):
+    - Masonry
+    - RITLKit
+    - RITLPhotos/RITLPhotosCategory
+  - RITLPhotos/RITLViews (2.3.3):
+    - Masonry
+    - RITLKit
+    - RITLPhotos/RITLPhotosCategory
+  - RITLViewFrame (0.0.1)
+  - TOCropViewController (2.5.4)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - RITLPhotos
+  - TOCropViewController
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - RITLKit
+    - RITLPhotos
+    - RITLViewFrame
+    - TOCropViewController
+    - YYModel
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  RITLKit: bcedeca4d6f8fc7d56d6f5b2b15ad1f57cc221b6
+  RITLPhotos: 82fc171958ca6d5aefec7ba4e1a73d12f96a94df
+  RITLViewFrame: 4e38e6333e6b4691c1980c3fcda9ff4d08f0d2c8
+  TOCropViewController: 2a1ae1242600b1f2d996fd91a5268b2309a33b5c
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 12d5252fcbd65889800c79ae267dc2737b54033a
+
+COCOAPODS: 1.9.1
